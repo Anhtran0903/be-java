@@ -13,4 +13,6 @@ public class HCN {
         this.rong = r;
     }
 
+    
+
 }

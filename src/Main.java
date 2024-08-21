@@ -86,16 +86,16 @@ public class Main {
 //
 //    }
 
-    public static void main(String[] args) {
+//    public static void main(String[] args) {
 
-        Scanner scanner = new Scanner(System.in);
-        System.out.print("nhap chieu dai: ");
-        int d = scanner.nextInt();
-        System.out.print("nhap chieu rong : ");
-        int r = scanner.nextInt();
-        HCN a =new HCN(d,r);
-        System.out.println("dai "+ a.dai);
-        System.out.println("rong "+ a.rong);
-        System.out.println("dien tich "+ a.dai * a.rong);
-    }
+//        Scanner scanner = new Scanner(System.in);
+//        System.out.print("nhap chieu dai: ");
+//        int d = scanner.nextInt();
+//        System.out.print("nhap chieu rong : ");
+//        int r = scanner.nextInt();
+//        HCN a =new HCN(d,r);
+//        System.out.println("dai "+ a.dai);
+//        System.out.println("rong "+ a.rong);
+//        System.out.println("dien tich "+ a.dai * a.rong);
+//    }
 }
