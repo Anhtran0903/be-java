@@ -29,7 +29,6 @@ public abstract class DocGia {
         Scanner scanner =new Scanner(System.in);
         System.out.printf("nhap so thang: ");
         this.soThang= scanner.nextInt();
-
     }
     public  void  xuat(){
 
